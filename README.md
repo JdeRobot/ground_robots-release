@@ -1,7 +1,5 @@
-# ground_robots
+# rqt_ground_robot_teleop
 
-This repository contains all the code relevant to the ground robot exercises in the JdeRobot Robotics Academy.
+This is a common package to provide a teleoperation interface for the ground_robot exercises in the JdeRobot Robotics Academy.
 
-## Usage
-
-We are currently working on providing this package through `apt-get` however, until the package is released, the best method is to clone this repository into your catkin_ws and build it
+![Screenshot](resource/rqt_ground_robot_teleop.png)
